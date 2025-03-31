@@ -30,8 +30,8 @@ Este é um projeto simples desenvolvido com **HTML, CSS e JavaScript** que reali
 <img src="Contagem/img/tela.png" width="300px">  
 
 🔹 **Exemplo do Resultado da Contagem**  
-<img src="Tabuada/img/exemplo1.png" width="300px">  
+<img src="Contagem/img/exemplo1.png" width="300px">  
 
 🔹 **Exemplo do Resultado da Contagem**  
-<img src="Tabuada/img/exemplo2.png" width="300px">  
+<img src="Contagem/img/exemplo2.png" width="300px">  
 
